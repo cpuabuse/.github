@@ -4,6 +4,6 @@ _Insert description here_
 
 ## Issues
 
-- _Feature #0_
-- _Bugfix #0_
+- _Close: #0 (Will tell github to close this issue)_
+- _Fix: #0_
 - _Enhancement_
