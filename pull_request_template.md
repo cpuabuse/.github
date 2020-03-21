@@ -1,9 +1,9 @@
 ## Description
 
-_Insert description here_
+{{ description }}
 
 ## Issues
 
-- _Close: #0 (Will tell github to close this issue, if merging to master)_
-- _Fix: #0_
-- _Enhancement_
+- {{ issue1 }}
+- {{ issue2 }}
+- {{ issue3 }}
