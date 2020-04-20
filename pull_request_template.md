@@ -4,6 +4,6 @@
 
 ## Issues
 
-- {{ issue1 }}
-- {{ issue2 }}
-- {{ issue3 }}
+- Close: {{ issue1 }}
+- Close: {{ issue2 }}
+- Close: {{ issue3 }}
